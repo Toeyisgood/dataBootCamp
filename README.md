@@ -17,7 +17,7 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
   - [ ] [NYC_Flights_2013_Analysis.ipynb]( - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
   - [ ] [PostgreSQL server]
 ## Data Visualization
-  - [ ] [chinook_dataviz.pdf](R/hw_dataviz.pdf) - Creating 5 charts to visualize the data queried from the `Chinook` database using the `ggplot2` package in `R`
+  - [ ] [chinook_dataviz.pdf] - Creating 5 charts to visualize the data queried from the `Chinook` database using the `ggplot2` package in `R`
 ## Statistics
   - [ ] [Titanic_Survival_Prediction.ipynb] - Using the `titanic_train` dataset to predict the survival of Titanic passengers by logistic regression and the `stats` package in `R`
   - [ ] [linear regression in Excel/Google Sheets]
