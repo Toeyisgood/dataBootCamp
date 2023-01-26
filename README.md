@@ -9,7 +9,7 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
   - [ ] [Converting Date] - Converting TH date to EN date
   - [ ] [ID Card Parser] - Using regular expression to extract and parse ID card information
 ## SQL Database
-  - [ ] [restaurant_owner.sql] - A small database of a restaurant containing five dimension tables and one fact table, and some SQL queries to analyze data
+  - [x] [restaurant_owner.sql](SQL Database/restaurant_owner.sql) - A small database of a restaurant containing five dimension tables and one fact table, and some SQL queries to analyze data
 ## R Programming
   - [ ] [pizza_shop_chatbot.r] - A rule-based chatbot to order pizza with some dialogue
   - [ ] [Pao_Ying_Chub.r] - An interactive rock-paper-scissors game with a bot
